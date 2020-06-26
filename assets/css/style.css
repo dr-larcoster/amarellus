@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #a6ca63;
+  background: #FF9A00;
   transition: background 0.2s ease-in-out;
 }
 
@@ -409,13 +409,13 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid #94c045;
+  border: 2px solid #FFC400;
   text-transform: uppercase;
   color: #fff;
 }
 
 #hero .btn-get-started:hover {
-  background: #94c045;
+  background: #FFC400;
 }
 
 @media (min-width: 1024px) {
@@ -780,7 +780,7 @@ section {
 }
 
 .services .icon-box:hover .title a {
-  color: #94c045;
+  color: #FFC400;
 }
 
 .services .description {
@@ -2208,7 +2208,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"] {
-  background: #94c045;
+  background: #FFC400;
   border: 0;
   border-radius: 0 4px 4px 0;
   width: 35%;
@@ -2220,7 +2220,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"]:hover {
-  background: #789d35;
+  background: #FF9A00;
 }
 
 #footer .copyright {
