@@ -135,7 +135,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #94c045;
+  color: #FF5B00;
   text-decoration: none;
 }
 
@@ -609,7 +609,7 @@ section {
 .about .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#94c045 50%, rgba(148, 192, 69, 0.4) 52%);
+  background: radial-gradient(#FFC400 50%, rgba(255, 196, 0, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -650,14 +650,14 @@ section {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(148, 192, 69, 0.7);
+  border: 5px solid rgba(255, 196, 0, 0.7);
   top: -15%;
   left: -15%;
   background: rgba(198, 16, 0, 0);
 }
 
 .about .play-btn:hover::after {
-  border-left: 15px solid #94c045;
+  border-left: 15px solid #FF9A00;
   transform: scale(20);
 }
 
@@ -2133,7 +2133,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #94c045;
+  background: #FF9A00;
   color: #fff;
   text-decoration: none;
 }
