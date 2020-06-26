@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #94c045;
+  color: #808080;
 }
 
 
@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 3px;
   right: 15px;
   bottom: 15px;
-  background: #94c045;
+  background: #FFC400;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -2161,7 +2161,7 @@ section {
 }
 
 #footer .footer-top h4::after {
-  background: #94c045;
+  background: #FFC400;
   width: 60px;
 }
 
