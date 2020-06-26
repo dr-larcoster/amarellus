@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #000000;
+  color: #FFFFFF;
 }
 
 
 a:hover {
-  color: #FFFFFF;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -186,7 +186,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #94c045;
+  color: #FF5B00;
 }
 
 .nav-menu .drop-down > a:after {
@@ -487,7 +487,7 @@ section {
 
 .breadcrumbs .breadcrumb-hero {
   text-align: center;
-  background: #94c045;
+  background: #FFC400;
   padding: 20px 0;
   color: #fff;
 }
