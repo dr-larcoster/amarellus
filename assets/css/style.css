@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #FFFFFF;
+  color: #000000;
 }
 
 
 a:hover {
-  color: #000000;
+  color: #808080;
   text-decoration: none;
 }
 
@@ -2185,7 +2185,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #94c045;
+  color: #FF5B00;
 }
 
 #footer .footer-top .footer-contact {
