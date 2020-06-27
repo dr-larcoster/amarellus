@@ -847,7 +847,7 @@ section {
 .skills .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #94c045;
+  color: #FF5B00;
 }
 
 .skills .content p:last-child {
@@ -881,9 +881,9 @@ section {
 
 .skills .progress-bar {
   width: 1px;
-  height: 10px;
+  height: 9px;
   transition: .9s;
-  background-color: #94c045;
+  background-color: #FF5B00;
 }
 
 /*--------------------------------------------------------------
